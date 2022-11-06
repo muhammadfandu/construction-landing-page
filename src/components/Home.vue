@@ -9,10 +9,12 @@
   <Testimonial />
   <News />
   <Subscribe />
+  <Footer />
 </template>
 
 <script>
 import Navbar from './layout/Navbar.vue';
+import Footer from './layout/Footer.vue';
 import Carousel from './Carousel.vue';
 import Welcome from './Welcome.vue';
 import OurService from './OurService.vue';
@@ -36,6 +38,7 @@ export default {
     Testimonial,
     News,
     Subscribe,
+    Footer,
   },
   props: {},
 };
