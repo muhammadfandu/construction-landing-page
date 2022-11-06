@@ -1,6 +1,6 @@
 <template>
   <div id="welcome">
-    <div class="container width-80 my-4 px-4">
+    <div class="container my-4 px-4">
       <div class="text-center">
         <span class="welcome-span">We offer</span>
         <h1 class="welcome-header">
@@ -12,7 +12,8 @@
           minim veniam, quis nostrud exercitation
         </p>
       </div>
-
+    </div>
+    <div class="container width-80">
       <div class="row my-4">
         <div class="col-3">
           <div class="card active">
@@ -87,7 +88,7 @@ export default {
 
 .welcome-text {
   font-size: 1.2rem;
-  margin: 20px 200px;
+  margin: 20px 200px 50px 200px;
 }
 
 .welcome-span {
