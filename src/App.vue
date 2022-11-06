@@ -92,6 +92,11 @@ export default {
   border: 1px solid #ffc000;
 }
 
+.btn-primary:hover {
+  background-color: #eeb000;
+  border: 1px solid #ffc000;
+}
+
 .btn-secondary {
   background-color: #2e3e50;
   border: 1px solid #2e3e50;

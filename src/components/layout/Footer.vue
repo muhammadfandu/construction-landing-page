@@ -3,7 +3,8 @@
     <p>
       Copyright © 2018, free-psd-templates.com Template Made By
       ree-psd-templates designers. <br />
-      All trademarks and copyrights belong to their respective owners.
+      All trademarks and copyrights belong to their respective owners. Coded by
+      github.com/muhammadfandu
     </p>
   </div>
 </template>
