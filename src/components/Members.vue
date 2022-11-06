@@ -18,7 +18,7 @@
           <div class="col-4">
             <div class="card">
               <img
-                src="https://picsum.photos/200/200"
+                src="https://picsum.photos/id/125/200/200"
                 class="d-block img-profile"
                 alt="https://picsum.photos/200/200"
               />
@@ -43,7 +43,7 @@
           <div class="col-4">
             <div class="card">
               <img
-                src="https://picsum.photos/200/200"
+                src="https://picsum.photos/id/142/200/200"
                 class="d-block img-profile"
                 alt="https://picsum.photos/200/200"
               />
@@ -68,7 +68,7 @@
           <div class="col-4">
             <div class="card">
               <img
-                src="https://picsum.photos/200/200"
+                src="https://picsum.photos/id/455/200/200"
                 class="d-block img-profile"
                 alt="https://picsum.photos/200/200"
               />

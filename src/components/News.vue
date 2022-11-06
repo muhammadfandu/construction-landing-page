@@ -17,10 +17,10 @@
     <div class="container width-80">
       <div class="row">
         <div class="col-4">
-          <div class="card" style="width: 18rem">
+          <div class="card">
             <img
               class="card-img-top"
-              src="https://picsum.photos/400/350"
+              src="https://picsum.photos/id/125/400/350"
               alt="Card image cap"
             />
             <div class="card-body text-left">
@@ -40,10 +40,10 @@
         </div>
 
         <div class="col-4">
-          <div class="card" style="width: 18rem">
+          <div class="card">
             <img
               class="card-img-top"
-              src="https://picsum.photos/400/350"
+              src="https://picsum.photos/id/121/400/350"
               alt="Card image cap"
             />
             <div class="card-body text-left">
@@ -63,7 +63,7 @@
         </div>
 
         <div class="col-4">
-          <div class="card" style="width: 18rem">
+          <div class="card">
             <img
               class="card-img-top"
               src="https://picsum.photos/400/350"

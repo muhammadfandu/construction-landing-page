@@ -25,7 +25,7 @@
     <div class="carousel-inner">
       <div class="carousel-item active">
         <img
-          src="https://picsum.photos/1200/500"
+          src="https://picsum.photos/id/122/1200/500"
           class="d-block w-100"
           alt="https://picsum.photos/1200/500"
         />
@@ -41,7 +41,7 @@
       </div>
       <div class="carousel-item">
         <img
-          src="https://picsum.photos/1200/500"
+          src="https://picsum.photos/id/122/1200/500"
           class="d-block w-100"
           alt="https://picsum.photos/1200/500"
         />
@@ -57,7 +57,7 @@
       </div>
       <div class="carousel-item">
         <img
-          src="https://picsum.photos/1200/500"
+          src="https://picsum.photos/id/122/1200/500"
           class="d-block w-100"
           alt="https://picsum.photos/200/100"
         />

@@ -25,6 +25,10 @@ export default {
   color: #2c3e50;
 }
 
+.carousel-indicators button {
+  background-color: #ffc000 !important;
+}
+
 .navbar {
   height: 80px;
 }
